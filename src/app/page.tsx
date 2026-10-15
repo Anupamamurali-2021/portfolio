@@ -9,12 +9,6 @@ export default function Home() {
       <nav className="fixed top-0 z-50 w-full border-b border-[#E7D8C7]/70 bg-[#F7F1E7]/90 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div className="flex items-center gap-3">
-            {/* Small profile image */}
-            <img
-              src="/profile10.jpg"
-              alt=""
-              className="h-11 w-11 rounded-full border-2 border-[#D96C2F] object-cover"
-            />
 
             {/* Name and role */}
             <div className="flex flex-col">
