@@ -179,7 +179,7 @@ export default function Home() {
             <div className="relative flex justify-center lg:justify-end">
               <div className="relative z-10 h-[340px] w-full max-w-[560px] overflow-hidden rounded-[2.5rem]">
                 <img
-                  src="/developer-workspace2.png"
+                  src="/portfolio/developer-workspace2.png"
                   alt="Software development workspace"
                   className="h-full w-full object-cover object-right"
                 />
