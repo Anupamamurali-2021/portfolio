@@ -212,7 +212,7 @@ export default function Home() {
           <div className="relative flex flex-col items-center lg:items-start lg:ml-20">
             <div className="relative overflow-hidden rounded-[2.5rem] bg-[#1E1917] shadow-xl">
               <img
-                src="/anupama2.jpg"
+                src="/portfolio/anupama2.jpg"
                 alt="Anupama Murali"
                 className="h-[250px] w-[200px] object-cover"
               />
@@ -224,7 +224,7 @@ export default function Home() {
               </div>
             </div>
             <a
-              href="/ANUPAMA_MURALI_RESUME.pdf"
+              href="/portfolio/ANUPAMA_MURALI_RESUME.pdf"
               target="_blank"
               className="mt-5 inline-flex items-center rounded-full bg-[#D96C2F] px-6 py-3 font-semibold text-white transition duration-300 hover:bg-[#B94F35] lg:ml-5"
             >
@@ -1137,7 +1137,7 @@ export default function Home() {
                   Email Me
                 </a>
                 <a
-                  href="/ANUPAMA_MURALI_RESUME.pdf"
+                  href="/portfolio/ANUPAMA_MURALI_RESUME.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="rounded-full bg-[#D96C2F] px-6 py-3 font-semibold text-white transition duration-300 hover:bg-[#B94F35]"
