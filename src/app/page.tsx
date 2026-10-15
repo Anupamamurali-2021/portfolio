@@ -121,7 +121,7 @@ export default function Home() {
               </a>
 
               <a
-                href="/ANUPAMA_MURALI_RESUME.pdf"
+                href="/ANUPAMA_MURALI_RESUMES.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-fit rounded-full bg-[#1E1917] px-5 py-2 text-sm text-white"
@@ -224,7 +224,7 @@ export default function Home() {
               </div>
             </div>
             <a
-              href="/portfolio/ANUPAMA_MURALI_RESUME.pdf"
+              href="/ANUPAMA_MURALI_RESUMES.pdf"
               target="_blank"
               className="mt-5 inline-flex items-center rounded-full bg-[#D96C2F] px-6 py-3 font-semibold text-white transition duration-300 hover:bg-[#B94F35] lg:ml-5"
             >
@@ -1137,7 +1137,7 @@ export default function Home() {
                   Email Me
                 </a>
                 <a
-                  href="/portfolio/ANUPAMA_MURALI_RESUME.pdf"
+                  href="/ANUPAMA_MURALI_RESUMES.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="rounded-full bg-[#D96C2F] px-6 py-3 font-semibold text-white transition duration-300 hover:bg-[#B94F35]"
